@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Jujutsu Kaisen",
+    "Estado": "Viendo",
+    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/20/6c/206c0ad843ba9b31dfb86dabdd887293.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Fullmetal Alchemist",
+    "Estado": "Completado",
+    "imagen": "https://m.media-amazon.com/images/I/81qsOUmmIRL._SY445_.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "NARUTO",
+    "Estado": "Completado",
+    "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwi6QVY0TQp2Frd_KBwlVGi2CyV5yUCDr2gVVkQGFkG4i83WCDp7znF-9l-ovsQm3Ntbjxi4EqyknVzcvAKqOOdBHxjV-rGnXGdcVfjE-c"
+  },
+  {
+    "id": 4,
+    "titulo": "ONE PUNCH MAN",
+    "Estado": "Completado",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/95/09/9509ef8ae8ecda58022f89594ea95203.jpg"
+  }
+]

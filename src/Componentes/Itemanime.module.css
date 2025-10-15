@@ -1,0 +1,12 @@
+.animeImage {
+  border-radius: 8px; 
+  opacity: 0.9;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.card:hover .animeImage {
+  opacity: 1; 
+}
+.animeDetails {
+  margin-top: 0.5rem; 
+}
