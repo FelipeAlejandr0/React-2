@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import initialData from './Data.json';
+import initialData from './ata.json';
 import AnimeList from './Componentes/Animelist.jsx';
-import Anime from './componentes/Anime.jsx'; 
+import Anime from './Componentes/Anime.jsx'; 
 import { Container, Title } from '@mantine/core';
 
 function App() {
